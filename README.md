@@ -1,4 +1,20 @@
-### Hi there 👋
+## Hi there 👋
+
+I'm John, and I'm currently **Software Enginer II** at [Amazon](https://amazon.com). I was formerly at [IBM](https://ibm.com), working on distributed systems & microservices over there.
+
+## Contact me 🌐
+
+- **website**: [https://jdleo.me](https://jdleo.me)
+- **email**: [j@jdleo.me](mailto:j@jdleo.me)
+- **matrix**: `@give:matrix.org`
+
+## About me 🤔
+
+- **favorite languages**: go & typescript (java, python, js, elixir, and rust are cool too)
+- **favorite food**: sushi 🍣 (omakase is the best)
+- **favorite movies**: dark knight, risky business, slumdog millionaire
+- **alma meter**: sacramento state
+- **expertise**: distributed systems & internal microservices at scale
 
 <!--
 **jdleo/jdleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
