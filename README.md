@@ -13,7 +13,7 @@ I'm John, and I'm currently **Software Enginer II** at [Amazon](https://amazon.c
 - **favorite languages**: go & typescript (java, python, js, elixir, and rust are cool too)
 - **favorite food**: sushi 🍣 (omakase is the best)
 - **favorite movies**: dark knight, risky business, slumdog millionaire
-- **alma meter**: sacramento state
+- **alma mater**: sacramento state
 - **expertise**: distributed systems & internal microservices at scale
 
 <!--
