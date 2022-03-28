@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm John, and I'm currently **Software Enginer II** at [Amazon](https://amazon.com). I was formerly at [IBM](https://ibm.com), working on distributed systems & microservices over there.
+I'm John, and I'm currently **Software Engineer II** at [Amazon](https://amazon.com), working on highly-scaled, low-latency distributed systems. These systems help make Amazon logistics more efficient in the warehouses, fulfillment centers, and when drives are en route. I was formerly at [IBM](https://ibm.com), working on distributed systems & microservices over there.
 
 ## Contact me 🌐
 
