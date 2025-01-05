@@ -10,5 +10,6 @@ not active on github at all these days - if you wanna know what i can build, jus
 **contact:**
 - website: https://jdleo.me
 - email: j@jdleo.me
+- linkedin: https://linkedin.com/in/jdleo
 
 thanks :)
