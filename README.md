@@ -5,6 +5,8 @@ hey, I'm an SDE2 at Amazon (started 9/2021). previously was at IBM (started 8/20
 - can migrate pretty much anything (lift and shifts w/ live traffic, rearchitecting, stack repolishing)
 - most comfortable with java/python/typescript/javascript/rust/go/elixir/solidity/c++ and aws.
 
+not active on github at all these days - if you wanna know what i can build, just reach out. doesn't need to be formal.
+
 **contact:**
 - website: https://jdleo.me
 - email: j@jdleo.me
