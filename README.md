@@ -4,6 +4,7 @@ hey :)
 - Roblox (started 6/2025), working in infra
 - Amazon (started 9/2021), worked in last mile logistics at first then switched to search science
 - IBM (started 8/2020), worked in iX primarily in gov sector
+- DGS (started 8/2019), worked in accessibility + public utility data
 
 **what I am good at:**
 - expertise is in distributed systems
